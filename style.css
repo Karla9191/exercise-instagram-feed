@@ -21,37 +21,18 @@ body{
 }
 
 
-
 .titulo-ficha{
     padding-top:1px;
     padding-left: 10px;
-}
-
-#titulo-ficha > p{
-
-    text-align: right;
-
+    display: inline;
+    height: 100px;
+    width: 300px;
+    float: left;
 }
 
 .enumeracion-ficha{
     color: gray;
     text-align: right;
-    
+    float: right;
 }
 
-table{
-
-padding: 10px;
-
-}
-
-th {
-  text-align: left;
-  font-size: large;
-}
-
-
-td {
-    color: gray;
-    text-align: right;
-}
