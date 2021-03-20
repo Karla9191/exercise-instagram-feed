@@ -36,3 +36,24 @@ body{
     float: right;
 }
 
+.icon-heart{
+    padding-top:1px;
+    padding-left: 10px;
+    display: inline;
+    height: 100px;
+    width: 300px;
+    float: left;
+}
+
+.comment{
+    padding-top:1px;
+    display: inline;
+    float: left;
+    padding-right: 30px;
+}
+
+.icon-menu{
+    color: gray;
+    text-align: right;
+    float: right;
+}
